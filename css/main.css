@@ -14,13 +14,20 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300; 
+  font: 13.34px ; //Helvetica, Arial, sans-serif;*/
   font-size: small;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300; 
+  /*font: 16px;*/
+  /*font-size: 100%; */
+  font-size: 23px;
+}
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
@@ -64,7 +71,8 @@ a:visited { color: #a0a; }
 }
 
 .header a {
-  font-weight: bold;
+  /*font-weight: bold;*/
+  font-size: 30px;
   text-decoration: none;
 }
 

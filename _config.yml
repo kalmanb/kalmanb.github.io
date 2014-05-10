@@ -1,4 +1,4 @@
-name: Kal's Thoughts
+name: kalmanb
 markdown: redcarpet
 pygments: true
 permalink: /:categories:/:title
