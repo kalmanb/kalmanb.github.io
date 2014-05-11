@@ -11,7 +11,7 @@ I have been lucky enough to build two great teams from the ground up. I made ple
 
 
 ### philosophies:
-More random ideas that have stuck with me than philosophies:
+Not really philosophies more random ideas that have stuck with me:
 
 * Continuous improvement - in everything
 * Embrace failure - can't have continuous improvement without a safe environment to try new things
@@ -29,7 +29,7 @@ My wife tells me I have a problem and need to see someone regarding with how muc
 * TTD - love it!
 * Continuous Int / Deploy
 * linux, vim, git, colemak
-* a mountian more - but lets keep it brief
+* a mountain more - but lets keep it brief
 
 
 ### community:
