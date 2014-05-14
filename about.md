@@ -21,7 +21,7 @@ Not really philosophies more random ideas that have stuck with me:
 
 
 ### tech:
-My wife tells me I have a problem and need to see someone regarding with how much time I spend here:
+My wife tells me I have a problem and need to see someone regarding how much time I spend here:
 
 * Scala - I come from Java and have fallen for FP - loving it
 * Big Data stuff - particularly [cassandra][cassandra] and [spark][spark]
