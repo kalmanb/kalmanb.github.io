@@ -52,17 +52,18 @@ I love start up environments however in the past:
 
 
 ## other
-My family are a big part of my life. My amazing wife takes most of the load - did I mention she's amazing. Three young kids keep me on my toes - Joseph, Charlotte and James. Best kids in the world - I'm a little biased. Learnt a ton from my 3 y/o about managing developers :)
+My family are a big part of my life. My amazing wife takes most of the load - did I mention she's amazing. Three young kids keep me on my toes - Joseph, Charlotte and James. Best kids in the world - I'm a little biased. Learnt a ton from my 3 y/o about managing developers :) We attend [Life Church][life] in Auckland.
 
 I've been around long enough to have done a little sport - I love a challenge:<br>
 surfing (~20 years), paddle boarding, kitesurfing, windsurfing, alpine skiing (rep), football (rep), ice hockey (rep), ironman (11 hours 33 mins of fun...), sailing and some more
 
 [movio]:       http://movio.co
-[cassandra]:   http://cassandra.apache.org/
-[spark]:       http://spark.apache.org/
-[nz-scala]:    http://www.meetup.com/NZ-Scala/)
-[fp-auck]:     http://www.meetup.com/Functional-Programming-Auckland/)
-[kiwi-retreat]:http://www.meetup.com/kiwi-code-retreat/)
-[nz-big-data]: http://www.meetup.com/NZ-Big-Data/)
-[cass-auck]:   http://www.meetup.com/Auckland-Cassandra-Users/)
-[cio]:         http://www.cio.co.nz/
+[cassandra]:   http://cassandra.apache.org
+[spark]:       http://spark.apache.org
+[nz-scala]:    http://www.meetup.com/NZ-Scala
+[fp-auck]:     http://www.meetup.com/Functional-Programming-Auckland
+[kiwi-retreat]:http://www.meetup.com/kiwi-code-retreat
+[nz-big-data]: http://www.meetup.com/NZ-Big-Data
+[cass-auck]:   http://www.meetup.com/Auckland-Cassandra-Users
+[cio]:         http://www.cio.co.nz
+[life]:        http://lifenz.org
