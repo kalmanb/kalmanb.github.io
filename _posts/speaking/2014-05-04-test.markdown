@@ -2,6 +2,8 @@
 layout: post
 title:  "Speaking Test!"
 date:   2014-05-04 12:59:10
+slidesTitle: "Slides"
+slidesUrl: "http://google.com"
 categories: speaking jekyll update
 ---
 
