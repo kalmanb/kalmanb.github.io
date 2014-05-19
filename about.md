@@ -42,7 +42,7 @@ I organise and/or speak at a bunch of meetups:
 * [Cassandra Auckland][cass-auck]
 
 
-### In the past:
+### in the past:
 I love start up environments however in the past:
 
 * Tech Lead - Big Telco
