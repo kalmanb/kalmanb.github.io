@@ -9,8 +9,11 @@ title: kal's speaking
   <ul class="posts">
     {% for post in site.categories['speaking'] %}
       <li>
-        <span>{{ post.date | date_to_string }}</span> &raquo; {{ post.title }}
-        <a href="{{ post.slidesUrl }}">{{ post.slidesTitle  }}</a>
+        <div class="date"><span>{{ post.date | date_to_string }}</span> &raquo; </div>
+        <div class="slides">
+          {{ post.title }}<br>
+          <a href="{{ post.slidesUrl }}">{{ post.slidesTitle  }}</a>
+        </div>
       </li>
     {% endfor %}
   </ul>

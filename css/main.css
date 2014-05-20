@@ -81,6 +81,11 @@ a:visited { color: #a0a; }
   margin-bottom: 2em;
 }
 
+.date, .slides {
+  display: inline-block;
+  vertical-align: top; 
+}
+
 .title a {
   color: #a00;
 }

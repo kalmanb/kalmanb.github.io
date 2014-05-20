@@ -7,4 +7,3 @@ slidesUrl: "http://google.com"
 categories: speaking jekyll update
 ---
 
-Just a test
