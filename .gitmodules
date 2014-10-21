@@ -1,0 +1,9 @@
+[submodule "slides/2014-10-21-ci-in-the-cloud"]
+	path = slides/2014-10-21-ci-in-the-cloud
+	url = https://github.com/kalmanb/kalmanb-presentations
+[submodule "slides/2014-07-09-reactive-streams"]
+	path = slides/2014-07-09-reactive-streams
+	url = https://github.com/kalmanb/reactive-streams-presentation
+[submodule "slides/2014-scala-downunder"]
+	path = slides/2014-scala-downunder
+	url = https://github.com/kalmanb/scala-downunder-presentations.git
