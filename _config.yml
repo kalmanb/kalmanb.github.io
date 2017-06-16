@@ -1,6 +1,0 @@
-name: kalmanb
-markdown: redcarpet
-pygments: true
-permalink: /:categories:/:title
-highlighter: pygments
-github: [Repository metadata]
